@@ -2,6 +2,7 @@
 
 I'm a Frontend Developer passionate about building scalable web applications using the MERN stack. I love solving problems and continuously improving my coding skills.
 
+
 ## 🚀 Technologies & Tools
 
 🌐 **Frontend**: ReactJS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Chakra UI  
@@ -10,7 +11,15 @@ I'm a Frontend Developer passionate about building scalable web applications usi
 🛠️ **Tools**: Git, GitHub, Vite
 
 
-
 ## 💼 Current Focus
 - Currently working on improving my React skills and learning advanced concepts like hooks and state management.
 
+
+## 📞 Contact Me
+- LinkedIn: [@prashant](www.linkedin.com/in/prashantpalve)
+- Email: [palveprashant526@gmail.com](palveprashant526@gmail.com)
+- Portfolio: [prashant.dev](https://prashant.dev)
+
+
+## 🤝 Let's Connect!
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
