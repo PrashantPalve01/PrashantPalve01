@@ -18,7 +18,7 @@ I'm a Frontend Developer passionate about building scalable web applications usi
 ## 📞 Contact Me
 - LinkedIn: [@prashant](https://www.linkedin.com/in/prashantpalve)
 - Email: [palveprashant526@gmail.com](mailto:palveprashant526@gmail.com)
-- Portfolio: [prashant.dev](https://prashant.dev)
+- Portfolio: [prashant.dev](https://prashantpalve-portfolio.netlify.app/)
 
 
 ## 🤝 Let's Connect!
