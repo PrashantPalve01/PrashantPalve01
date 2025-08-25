@@ -1,6 +1,10 @@
 # Hi, I'm Prashant! 👋
 
-I'm a Frontend Developer passionate about building scalable web applications using the MERN stack. I love solving problems and continuously improving my coding skills.
+I am a MERN Stack Developer passionate about building scalable and user-friendly web applications. I have hands-on experience with React, Node.js, Express.js, and MongoDB, along with frontend frameworks like Tailwind CSS and Chakra UI.
+
+I have completed an internship at A2Z IT Hub Pvt. Ltd., multiple collaborative projects at Masai School, and participated in hackathons including the NASA International Hackathon.
+
+💡 I enjoy solving real-world problems with clean code, optimized performance, and modern technologies.
 
 
 ## 🚀 Technologies & Tools
