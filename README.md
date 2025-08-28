@@ -15,10 +15,6 @@ I have completed an internship at A2Z IT Hub Pvt. Ltd., multiple collaborative p
 🛠️ **Tools**: Git, GitHub, Vite
 
 
-## 💼 Current Focus
-- Currently working on improving my React skills and learning advanced concepts like hooks and state management.
-
-
 ## 📞 Contact Me
 - LinkedIn: [@prashant](https://www.linkedin.com/in/prashantpalve)
 - Email: [palveprashant526@gmail.com](mailto:palveprashant526@gmail.com)
