@@ -13,7 +13,7 @@ Currently expanding my skills in modern web technologies and contributing to mea
 - **Problem Solving:** Data Structures & Algorithms
 
 ### 🌟 Featured Projects
-- **GitHub Recruiter:** AI-powered technical hiring platform
+- **GitHub Recruiter:** Technical hiring platform
 - **MediTrack:** Comprehensive medication management system
 
 ### 🎯 Currently
