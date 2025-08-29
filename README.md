@@ -1,25 +1,24 @@
-# Hi, I'm Prashant! 👋
+# Hi there! I'm Prashant Palve 👋
 
-I am a MERN Stack Developer passionate about building scalable and user-friendly web applications. I have hands-on experience with React, Node.js, Express.js, and MongoDB, along with frontend frameworks like Tailwind CSS and Chakra UI.
+## 🚀 Full Stack Developer | MERN Stack Specialist
 
-I have completed an internship at A2Z IT Hub Pvt. Ltd., multiple collaborative projects at Masai School, and participated in hackathons including the NASA International Hackathon.
+I'm passionate about building scalable web applications and solving complex problems through code. 
+Currently expanding my skills in modern web technologies and contributing to meaningful projects.
 
-💡 I enjoy solving real-world problems with clean code, optimized performance, and modern technologies.
+### 💻 Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, VS Code, Postman
+- **Problem Solving:** Data Structures & Algorithms
 
+### 🌟 Featured Projects
+- **GitHub Recruiter:** AI-powered technical hiring platform
+- **MediTrack:** Comprehensive medication management system
 
-## 🚀 Technologies & Tools
+### 🎯 Currently
+- Completed Full Stack Development Bootcamp at Masai School
+- Practicing DSA and building exciting projects
+- Open to opportunities in Frontend, Backend, or Full Stack roles
 
-🌐 **Frontend**: ReactJS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Chakra UI  
-⚙️ **Backend**: Node.js, Express.js  
-🗄️ **Database**: Firebase, MongoDB  
-🛠️ **Tools**: Git, GitHub, Vite
-
-
-## 📞 Contact Me
-- LinkedIn: [@prashant](https://www.linkedin.com/in/prashantpalve)
-- Email: [palveprashant526@gmail.com](mailto:palveprashant526@gmail.com)
-- Portfolio: [prashant.dev](https://prashantpalve-portfolio.netlify.app/)
-
-
-## 🤝 Let's Connect!
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/prashantpalve) | palveprashant526@gmail.com
